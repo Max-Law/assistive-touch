@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    font-size: 16px;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    line-height: 60px;
+}
+
+footer {
+    width: 100vw;
+    color: #666;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    font-size: 12px;
+    line-height: 30px;
+}
